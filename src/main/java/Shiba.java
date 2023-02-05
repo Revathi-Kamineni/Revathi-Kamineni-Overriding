@@ -18,5 +18,11 @@
 public class Shiba extends Dog{
 
 //    override sound() here
+public String sound(){
+    return "poof";
+}
+public String noise(){
+    return "bow";
+}
 
 }
